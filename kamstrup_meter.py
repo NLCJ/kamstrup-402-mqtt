@@ -55,6 +55,7 @@ kamstrup_402_params = {
 	"temp2xm3"      : 0x6E,
 	"infoevent"     : 0x71,
 	"hourcounter"   : 0x3EC,
+	"inputA"		: 0x54,
 }
 
 # Kamstrup uses the "true" CCITT CRC-16
