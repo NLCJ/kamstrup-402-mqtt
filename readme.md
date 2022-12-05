@@ -75,6 +75,7 @@ These parameters can be added to the config.yaml file. Atleast one parameter mus
 | infoevent |   |
 | hourcounter | |
 
+Other parameters can be found in the Kamstrup manual in decimal, convert to hex before adding: https://kamstrup.stockshed.com/download/kamstrup/Kamstrup%20Multical%20402%20-%20Technical%20Description%20-%20English.pdf (page 84)
 
   * [Running the script](#Running-the-script)
     * [on the command line](#Running-on-the-commandline)
